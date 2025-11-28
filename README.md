@@ -2,7 +2,7 @@
 
 TUI for accessing bplus series of apps. Launcher and searchrs added. 
 
-quick start placeholder
+Adding more bins to the releases section glibc 2.35+ (Ubuntu 22+) ready  
 
 download and build:
 ```sh
