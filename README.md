@@ -1,6 +1,6 @@
 # bplus🤷🏻‍♂ TUI
 
-TUI for accessing bplus series of apps. Launcher and searchrs added. 
+TUI for accessing bplus series of apps. [Launcher](https://github.com/mrhappynice/bplus-launcher) and [searchrs](https://github.com/mrhappynice/bplus-searchrs) added. 
 
 Adding more bins to the releases section glibc 2.35+ (Ubuntu 22+) ready  
 
