@@ -4,7 +4,7 @@ TUI for accessing bplus series of apps. [Launcher](https://github.com/mrhappynic
 
 Adding more bins to the releases section glibc 2.35+ (Ubuntu 22+) ready  
 
-download and build:
+In the ```bplus-launcher``` folder, download and build:
 ```sh
 git clone https://github.com/mrhappynice/bplus-tui.git && cd bplus-tui
 ```
