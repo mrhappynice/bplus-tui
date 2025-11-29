@@ -13,3 +13,5 @@ compile:
 cargo build --release
 ```
 have bplus-launcher running then launch bpt in terminal
+
+-(NOTE)- windows build is double typing each key. working fine in linux and termux. 
